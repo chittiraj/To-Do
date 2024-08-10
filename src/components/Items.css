@@ -1,0 +1,14 @@
+
+.search input{
+    margin: 0px 10px 0px 0px;
+}
+.search button{
+    height: 40px;
+}
+.add button{
+    height: 40px;
+}
+.list-group{
+    width: 76vh;
+}
+
